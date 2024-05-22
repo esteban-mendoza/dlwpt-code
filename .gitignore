@@ -1,4 +1,6 @@
 .DS_Store
+.venv
 tools
 *_old
 venv
+data-unversioned
